@@ -10,6 +10,20 @@ class MyApp extends StatelessWidget {
       title: "Note App",
       theme: ThemeData.dark(),
       home: Scaffold(
+        floatingActionButton: Padding(
+          padding: const EdgeInsets.only(bottom:20.0),
+          child: FloatingActionButton(
+            onPressed: () {},
+            child: Icon(Icons.add, size: 50, color:Colors.grey[700]),
+            backgroundColor: Colors.black87,
+            elevation: 18,
+          ),
+        ),
+        drawer: Drawer(
+          child: ListView(
+            children: <Widget>[Text('data')],
+          ),
+        ),
         body: Padding(
           padding: const EdgeInsets.only(top: 40.0, left: 13.0, right: 13.0),
           child: Column(
