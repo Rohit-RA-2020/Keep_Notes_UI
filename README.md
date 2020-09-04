@@ -1,8 +1,8 @@
-# notes
+# Notes
 
-A new Flutter project.
+A new Flutter project, UI Clone of Google Keep Notes.
 
-https://github.com/Rohit-RA-2020/Keep_notes_UI/issues/1#issuecomment-686939935
+![alt text](https://user-images.githubusercontent.com/53489549/92206562-587fb380-eea5-11ea-94ee-94dfdebd8c65.jpg)
 
 ## Getting Started
 
