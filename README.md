@@ -1,6 +1,8 @@
-# notes
+# Notes
 
-A new Flutter project.
+A new Flutter project, UI Clone of Google Keep Notes.
+
+![alt text](https://user-images.githubusercontent.com/53489549/92206562-587fb380-eea5-11ea-94ee-94dfdebd8c65.jpg)
 
 ## Getting Started
 
